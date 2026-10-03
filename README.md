@@ -108,7 +108,7 @@ Recommended Meal:
 
 #### Home Interface
 
-![Khana Kya Hai? Home](screenshots/home.png)
+![Khana Kya Hai? Home](screenshots/Home.png)
 
 #### Dairy Allergy Test
 
